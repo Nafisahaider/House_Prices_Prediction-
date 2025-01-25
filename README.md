@@ -51,9 +51,7 @@ bathrooms: Number of bathrooms.
 
 Additional columns include features like parking availability, guestroom, and furnishing status.
 
-Replace the dataset path with your own file location:
-
-df = pd.read_csv('path/to/your/dataset.csv')
+df= pd.read_csv('/content/drive/My Drive/data/Housing.csv')
 
 ## Key Components
 
